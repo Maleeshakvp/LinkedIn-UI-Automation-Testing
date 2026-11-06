@@ -1,0 +1,12 @@
+/src/test/resources/credentials.properties
+/target/
+/SQA_Assignment_04_Test_Report.pdf
+
+# Eclipse workspace metadata
+/.classpath
+/.project
+/.settings/
+
+# Local VLC help output
+/vlc-help.txt
+**/credentials.properties

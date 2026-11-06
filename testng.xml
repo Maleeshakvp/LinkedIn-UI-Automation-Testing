@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="LinkedIn UI Test Suite">
+    <test name="LinkedIn Tests">
+        <classes>
+            <class name="lk.ac.kdu.sqa.tests.TestNGCheck"/>
+            <class name="lk.ac.kdu.sqa.tests.LoginTests"/>
+            <class name="lk.ac.kdu.sqa.tests.SearchTests"/>
+            <class name="lk.ac.kdu.sqa.tests.SearchResultTests"/>
+        </classes>
+    </test>
+</suite>
